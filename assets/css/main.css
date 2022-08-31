@@ -29885,54 +29885,11 @@ body {
   border: 0;
   background: transparent;
 }
-.map-location .ct-location li:nth-child(1) {
-  top: 15%;
-  left: 25px;
+.map-location .ct-location li {
+  top: 51%;
+  right: 32%;
 }
-.map-location .ct-location li:nth-child(2) {
-  top: 30%;
-  left: 20%;
-}
-.map-location .ct-location li:nth-child(3) {
-  top: 40%;
-  left: 25%;
-}
-.map-location .ct-location li:nth-child(4) {
-  top: 50%;
-  left: 25%;
-}
-.map-location .ct-location li:nth-child(5) {
-  top: 60%;
-  left: 30%;
-}
-.map-location .ct-location li:nth-child(6) {
-  top: 80%;
-  left: 27%;
-}
-.map-location .ct-location li:nth-child(7) {
-  right: 20%;
-  top: 10%;
-}
-.map-location .ct-location li:nth-child(8) {
-  right: 25%;
-  top: 20%;
-}
-.map-location .ct-location li:nth-child(9) {
-  right: 30%;
-  top: 30%;
-}
-.map-location .ct-location li:nth-child(10) {
-  right: 40%;
-  top: 40%;
-}
-.map-location .ct-location li:nth-child(11) {
-  right: 50%;
-  top: 45%;
-}
-.map-location .ct-location li:nth-child(12) {
-  right: 53%;
-  top: 70%;
-}
+
 
 /********** Hm2 Applications *********/
 .hm2-applications {
@@ -30068,7 +30025,8 @@ body {
 
 /***************** Faq section start *************/
 .faq-section {
-  background: linear-gradient(96deg, #F2F5FF 0.96%, rgba(242, 245, 255, 0.35) 102.49%);
+  /* background: linear-gradient(96deg, #F2F5FF 0.96%, rgba(242, 245, 255, 0.35) 102.49%); */
+  background-color: #F6F6F6;
 }
 
 .hm2-faq-tab .hm2-server-tab-control li button::after {
